@@ -4,13 +4,8 @@ Welcome to my **C Programming** repository!
 This repository contains all the C programs I have practiced while learning and improving my programming skills. 🚀
 
 ## 📂 Contents
-- 📌 Basic Programs (Input/Output, Loops, Conditionals)
-- 📌 Arrays and Strings
-- 📌 Functions
-- 📌 Pointers
-- 📌 Structures and Unions
-- 📌 File Handling
-- 📌 Miscellaneous Practice Problems
+- 📌 Series
+
 
 ## ⚙️ How to Use
 - Browse the folders or files to find programs on specific topics. 📁
