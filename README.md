@@ -5,7 +5,7 @@ This repository contains all the C programs I have practiced while learning and 
 
 ## 📂 Contents
 - 📌 Series
-
+- 📌 Number Pattern
 
 ## ⚙️ How to Use
 - Browse the folders or files to find programs on specific topics. 📁
